@@ -10,6 +10,7 @@
 
 2. **创建一个 Telegram Bot 并获取其 API Token。**
   - 获取您的 Telegram 用户或群组的 Chat ID。
+  - 
 3. **GitHub Secrets**
   - 在您的 GitHub 仓库中设置以下 Secrets：
   - ACCOUNTS_JSON：包含所有服务器信息的 JSON 字符串。
