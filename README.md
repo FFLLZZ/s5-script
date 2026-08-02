@@ -1,4 +1,4 @@
-# serv00-hysteria2
+# serv00-hysteria2!!!
 
 ## 恢复 hysteria2 服务并发送 Telegram 通知
 
